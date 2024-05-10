@@ -64,6 +64,19 @@
       "current_step": "...",
       "last_modified": "...",
       "created": "..." 
+    },
+    { 
+      "id": 6, 
+      "case_style": "LVNV Funding, LLC vs Jeffrey Payne",
+      "case_number": "CC2024048647",
+      "lcm": "Reem",
+      "state": "AZ",
+      "type": "Lawsuit-AZJP",
+      "court": "...",
+      "oc": "...",
+      "current_step": "...",
+      "last_modified": "...",
+      "created": "..." 
     }
   ]
 }
