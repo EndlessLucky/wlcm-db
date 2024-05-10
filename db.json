@@ -78,5 +78,129 @@
       "last_modified": "...",
       "created": "..." 
     }
+  ],
+  "tasks": [
+    { 
+      "id": 1, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "1",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    },
+    { 
+      "id": 2, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "1",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    },
+    { 
+      "id": 3, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "2",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    },
+    { 
+      "id": 4, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "2",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    },
+    { 
+      "id": 5, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "4",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    },
+    { 
+      "id": 6, 
+      "task_name": "Case settled - Get agrement",
+      "case": "LVNV Funding, LLC vs Jeffrey Payne",
+      "priority": "5",
+      "assigned_to": "reem",
+      "status": "incomplete",
+      "due_date": "04/25/2024 11:25"
+    }
+  ],
+  "calendar": [
+    { 
+      "id": 1, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    },
+    { 
+      "id": 2, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    },
+    { 
+      "id": 3, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    },
+    { 
+      "id": 4, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    },
+    { 
+      "id": 5, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    },
+    { 
+      "id": 6, 
+      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit calendar",
+      "cmid": "11111",
+      "status": "Appearance Confirmed",
+      "type": "Deadline",
+      "date": "04/25/2024",
+      "time": "11:25",
+      "timezone": "CST"
+    }
   ]
 }
