@@ -139,9 +139,9 @@
     { 
       "id": 1, 
       "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "calendar": "Lawsuit",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
+      "status": "Appearance",
       "type": "Deadline",
       "date": "04/25/2024",
       "time": "11:25",
@@ -149,21 +149,21 @@
     },
     { 
       "id": 2, 
-      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "setting_title": "Second Trial -- Second Portfolio Ventures II, LLC",
+      "calendar": "Calendar",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
-      "type": "Deadline",
+      "status": "Confirmed",
+      "type": "Timeline",
       "date": "04/25/2024",
       "time": "11:25",
-      "timezone": "CST"
+      "timezone": "EST"
     },
     { 
       "id": 3, 
-      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "setting_title": "Third Trial -- Third Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
+      "status": "Appearance",
       "type": "Deadline",
       "date": "04/25/2024",
       "time": "11:25",
@@ -171,36 +171,36 @@
     },
     { 
       "id": 4, 
-      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "setting_title": "Fourth Trial -- Fourth Portfolio Ventures II, LLC",
+      "calendar": "Calendar",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
-      "type": "Deadline",
+      "status": "Confirmed",
+      "type": "Timeline",
       "date": "04/25/2024",
       "time": "11:25",
-      "timezone": "CST"
+      "timezone": "PST"
     },
     { 
       "id": 5, 
-      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "setting_title": "Fivth Trial -- Fivth Portfolio Ventures II, LLC",
+      "calendar": "Lawsuit",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
+      "status": "Appearance",
       "type": "Deadline",
       "date": "04/25/2024",
       "time": "11:25",
-      "timezone": "CST"
+      "timezone": "EST"
     },
     { 
       "id": 6, 
-      "setting_title": "First Trial -- First Portfolio Ventures II, LLC",
-      "calendar": "Lawsuit calendar",
+      "setting_title": "Sixth Trial -- Sixth Portfolio Ventures II, LLC",
+      "calendar": "Calendar",
       "cmid": "11111",
-      "status": "Appearance Confirmed",
-      "type": "Deadline",
+      "status": "Confirmed",
+      "type": "Timeline",
       "date": "04/25/2024",
       "time": "11:25",
-      "timezone": "CST"
+      "timezone": "PST"
     }
   ]
 }
